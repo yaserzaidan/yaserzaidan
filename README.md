@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @yaserzaidan
 - 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning python, Data Science, Neural Networks, Machine Learning
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me => Email: yaserzaidan2000@gmail.com
 
 <!---
 yaserzaidan/yaserzaidan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
